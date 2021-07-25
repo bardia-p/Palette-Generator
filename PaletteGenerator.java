@@ -1,6 +1,3 @@
-// Bardia Parmoun
-// 101143006
-
 import javax.swing.*;
 import java.awt.*;
 
